@@ -2,7 +2,7 @@
 
 feature engineering.ipynb: data preprocessing <br>
 match results prediction.ipynb: dimension reduction, model building and evaluation, model performance visualisation 
-<br>
+<br><br>
 Football match result prediction using betting odds only, data retrieved from <br>
 (https://www.football-data.co.uk)<br>
 
