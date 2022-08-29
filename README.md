@@ -1,6 +1,8 @@
 # Football-match-result-prediction
 
-feature engineering.ipynb: <br>data preprocessing <br><br>
+feature engineering.ipynb: <br>
+data preprocessing, feature scaling, feature engineering
+<br><br>
 match results prediction.ipynb: <br>dimension reduction, model building and evaluation, model performance visualisation 
 <br><br>
 
