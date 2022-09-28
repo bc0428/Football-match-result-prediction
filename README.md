@@ -1,4 +1,5 @@
 # Football-match-result-prediction
+The complete workflow is splitted into two Jupyter Notebooks:<br>
 
 feature engineering.ipynb: <br>
 data preprocessing, feature scaling, feature engineering
