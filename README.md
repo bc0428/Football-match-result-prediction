@@ -1,10 +1,10 @@
 # Football-match-result-prediction
 The complete workflow is splitted into two Jupyter Notebooks:<br>
 
-feature engineering.ipynb: <br>
+<b>feature engineering.ipynb<b>: <br>
 data preprocessing, feature scaling, feature engineering
 <br><br>
-match results prediction.ipynb: <br>dimension reduction, model building and evaluation, model performance visualisation 
+<b>match results prediction.ipynb<b>: <br>dimension reduction, model building and evaluation, model performance visualisation 
 <br><br>
 
 <h2>Football match result prediction using betting odds only</h2>
